@@ -3,7 +3,7 @@ Wolfram Summer School 2017
 
 ## Topic Exploration
 
-### [Transfer Learning with Convolutional Neural Networks (Classifying Photographs vs. Drawings](https://github.com/dan7geo/WolframSS2017/blob/master/IntroTransferLearning.pdf)
+### [Transfer Learning with Convolutional Neural Networks: Classifying Photographs vs. Drawings](https://github.com/dan7geo/WolframSS2017/blob/master/IntroTransferLearning.pdf)
 
 ## Project 1: (Neural Wolfram|Alpha) Generating Code from Natural Language
 
