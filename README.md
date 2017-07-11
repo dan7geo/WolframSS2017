@@ -5,9 +5,11 @@ Wolfram Summer School 2017
 
 ### [Transfer Learning with Convolutional Neural Networks (Classifying Photographs vs. Drawings](https://github.com/dan7geo/WolframSS2017/blob/master/IntroTransferLearning.pdf)
 
-## Project 1: Generating Code from Natural Language
+## Project 1: (Neural Wolfram|Alpha) Generating Code from Natural Language
 
 ### Step 1: Recurrent Neural Networks
+
+* Bi-Directional GRU/LSTM
 
 * Without attention
   * With random initialization
@@ -18,7 +20,14 @@ Wolfram Summer School 2017
 
 ### Step 2: Recursive Neural Networks
 
-## Project 2: Evolving Neural Network Architectures with Genetic Algorithms
+## Project 2: (NeuroEvolution) Evolving Neural Network Architectures/Hyperparameters with Genetic Algorithms
+
+
+### Step 0: Mutating Neural Nets
+
+* NetChain
+
+* NetGraph
 
 ### Step 1: Synchronous Training
 
